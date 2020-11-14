@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "hexo generate"
+  },
   "name": "hexo-theme-landscape",
   "version": "0.0.2",
   "private": true,
