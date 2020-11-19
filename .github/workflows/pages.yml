@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - source  # default branch
-      - main  # main branch
+      - master  # master branch
 
 jobs:
   pages:
